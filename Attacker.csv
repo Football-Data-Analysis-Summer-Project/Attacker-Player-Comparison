@@ -1,0 +1,378 @@
+Name,Age,Club Name,Club Level,Minutes Played,Goals,Assists,xG,xAG,shots on target per 90,goals per shot,SCA,Games Missed,Transfer Value
+Robert Lewandowski,35,Barcelona,1,2800,18,7,18.2,4.1,1.8,0.18,63,3,20
+Raphinha,27,Barcelona,1,2450,6,9,5.3,6.7,1.2,0.1,89,5,50
+Lamine Yamal,16,Barcelona,1,1950,5,8,4.5,5.2,1.1,0.12,72,1,75
+Kylian Mbappé,25,PSG,1,2600,27,7,24.1,6.3,2.3,0.25,112,2,180
+Vinicius Junior,23,Real Madrid,1,2300,15,6,14.7,5.8,2,0.2,98,4,150
+Rodrygo,23,Real Madrid,1,2500,10,5,9.5,4.2,1.5,0.15,85,1,100
+Antoine Griezmann,33,Atlético Madrid,1,3000,16,6,15.3,5.9,1.7,0.17,124,0,25
+Alexander Sorloth,28,Villarreal,2,2850,23,6,18.9,4.3,1.9,0.19,78,2,25
+Ángel Correa,28,Atlético Madrid,1,1820,9,4,7.1,3.8,1.3,0.14,56,8,20
+Samuel Lino,24,Atlético Madrid,1,2210,6,5,5.2,4.1,1.1,0.12,68,5,30
+Iñaki Williams,29,Athletic Club,2,2980,12,6,11.5,5,1.6,0.15,87,1,25
+Nico Williams,21,Athletic Club,2,2540,8,11,6.8,7.9,1.2,0.13,94,3,50
+Gorka Guruzeta,27,Athletic Club,2,2010,10,3,8.7,2.6,1.4,0.16,59,7,12
+Oihan Sancet,23,Athletic Club,2,2360,7,8,5.9,6.2,1,0.14,73,4,35
+Gerard Moreno,31,Villarreal,2,1980,13,5,11.2,4.5,1.7,0.17,71,9,15
+Ayoze Pérez,30,Real Betis,2,1670,6,4,5.5,3.3,1.1,0.12,53,11,8
+Thierno Barry,20,Valencia,3,320,1,1,0.9,0.8,0.5,0.08,12,6,5
+Ilias Akhomach,19,Villarreal,2,890,2,3,1.8,2.1,0.7,0.1,28,15,10
+Isco,32,Real Betis,2,2720,9,7,8.3,6,1.5,0.16,102,1,5
+Giovani Lo Celso,27,Villarreal,2,1780,5,4,4.6,3.5,1,0.13,54,9,18
+Cucho Hernández,25,Getafe,3,2920,16,5,14.1,4.7,1.8,0.18,89,2,25
+Chimy Ávila,30,Osasuna,3,2410,10,4,9.3,3.9,1.5,0.16,72,5,12
+Iago Aspas,36,Celta Vigo,3,3010,14,6,12.8,5.5,1.7,0.17,96,0,8
+Borja Iglesias,31,Real Betis,2,1420,5,2,4.9,1.8,1.1,0.13,42,12,10
+Hugo Álvarez,21,Celta Vigo,3,680,2,1,1.7,1,0.6,0.09,19,8,5
+Williot Swedberg,20,Celta Vigo,3,450,1,2,0.8,1.5,0.4,0.07,14,10,7
+Álvaro García,27,Rayo Vallecano,3,2580,5,6,4.3,4.8,1,0.12,65,4,12
+Isi Palazón,29,Rayo Vallecano,3,2740,7,8,6.2,5.9,1.3,0.14,82,3,10
+Jorge de Frutos,26,Rayo Vallecano,3,1980,3,7,2.8,5.1,0.9,0.11,61,8,8
+Sergio Camello,22,Rayo Vallecano,3,1560,5,4,4.1,3.2,1,0.13,48,11,12
+Ante Budimir,32,Osasuna,3,2510,16,3,13.7,2.5,1.7,0.18,74,4,6
+Raúl García,37,Athletic Club,2,980,4,2,3.5,1.7,0.8,0.12,31,18,3
+Kike Barja,26,Osasuna,3,1870,3,5,2.6,3.8,0.7,0.1,53,9,5
+José Arnaiz,28,Osasuna,3,1320,4,3,3.3,2.4,0.9,0.11,41,12,7
+Vedat Muriqi,29,Mallorca,3,2680,12,4,10.8,3.6,1.5,0.16,78,2,12
+Cyle Larin,28,Mallorca,3,2010,8,3,6.9,2.7,1.2,0.14,63,6,8
+Abdón Prats,31,Mallorca,3,1240,6,2,5.1,1.8,1,0.15,39,10,4
+Takuma Asano,29,Real Sociedad,2,820,2,1,1.9,1,0.6,0.09,25,14,5
+Alassane Pléa,30,Borussia M'gladbach,2,2310,10,6,8.7,4.9,1.4,0.15,71,5,15
+Tim Kleindienst,28,Freiburg,3,1980,9,3,7.5,2.8,1.3,0.14,58,7,12
+Tomáš Čvančara,23,Borussia M'gladbach,2,1560,5,2,4.3,1.9,1,0.12,47,9,10
+Nathan Ngoumou,23,Borussia M'gladbach,2,1420,3,4,2.6,3.1,0.8,0.1,43,11,8
+Jonas Wind,24,Wolfsburg,3,2870,15,7,13.2,5.8,1.8,0.17,92,1,25
+Kevin Behrens,32,Wolfsburg,3,1540,6,2,5.4,1.7,1.1,0.13,48,9,5
+Tiago Tomás,21,Wolfsburg,3,1780,4,5,3.5,3.8,0.9,0.11,54,8,12
+Lukas Nmecha,25,Wolfsburg,3,2010,7,4,6.1,3.2,1.2,0.14,63,6,18
+Phillip Tietz,26,Augsburg,3,2630,12,5,10.5,4.1,1.6,0.16,79,3,14
+Samuel Essende,22,Augsburg,3,1250,3,2,2.4,1.7,0.7,0.1,37,11,7
+Steve Mounié,28,Augsburg,3,1870,7,3,6,2.5,1.1,0.13,56,7,6
+Ermedin Demirović,26,Augsburg,3,2910,15,8,13.1,6.2,1.7,0.17,89,1,20
+Kevin Volland,31,Union Berlin,3,2310,8,6,6.9,4.7,1.2,0.14,72,5,8
+Benedict Hollerbach,22,Union Berlin,3,980,2,1,1.8,0.9,0.6,0.08,29,13,5
+Mikkel Kaufmann,22,Union Berlin,3,720,1,1,1,0.8,0.5,0.07,21,16,4
+Dion Drena Beljo,21,Augsburg,3,1420,4,2,3.5,1.7,0.9,0.11,43,9,9
+Tim Kleindienst,28,Freiburg,3,1980,9,3,7.5,2.8,1.3,0.14,58,7,12
+Marvin Pieringer,28,Freiburg,3,1250,3,2,2.6,1.6,0.8,0.1,38,11,6
+Stefan Schimmer,26,Bochum,3,1670,5,3,4.1,2.4,1,0.12,51,8,5
+Budu Zivzivadze,29,Karlsruhe,3,2140,11,4,9.3,3.5,1.4,0.15,68,5,4
+Jann-Fiete Arp,24,Holstein Kiel,3,1560,7,3,6.1,2.4,1.1,0.13,49,8,2
+Shuto Machino,24,Holstein Kiel,3,2310,12,5,10.2,4.1,1.5,0.16,73,3,6
+Benedikt Pichler,27,Hannover,3,1980,8,4,7,3.2,1.2,0.14,61,6,5
+Alexander Bernhardsson,26,Hannover,3,1250,3,5,2.7,3.8,0.8,0.11,42,11,3
+Philipp Hofmann,31,Bochum,3,2670,14,5,12.1,4.3,1.7,0.17,85,2,8
+Moritz Broschinski,23,Bochum,3,1430,5,3,4.2,2.5,0.9,0.12,47,9,4
+Gonçalo Paciência,29,Schalke,3,1780,7,2,6,1.9,1.1,0.13,56,7,5
+Myron Boadu,23,Twente,3,2010,12,4,10.5,3.4,1.6,0.16,71,4,12
+Victor Osimhen,25,Napoli,1,2410,21,5,19.3,4.7,2.2,0.21,112,3,100
+Khvicha Kvaratskhelia,23,Napoli,1,2780,11,9,9.8,7.5,1.7,0.15,124,1,80
+Giovanni Simeone,28,Napoli,1,1250,6,2,5.3,1.8,1,0.14,42,12,15
+Matteo Politano,30,Napoli,1,2560,8,7,7.1,5.9,1.4,0.13,89,2,20
+Lautaro Martínez,26,Inter Milan,1,2980,24,6,21.5,5.2,2.3,0.22,138,0,110
+Marcus Thuram,26,Inter Milan,1,2670,15,8,13.7,6.8,1.8,0.17,121,2,60
+Mehdi Taremi,31,Porto,1,2310,14,5,12.3,4.4,1.7,0.16,87,4,18
+Marko Arnautović,35,Inter Milan,1,980,4,3,3.6,2.5,0.9,0.12,37,14,5
+Gianluca Scamacca,25,Atalanta,1,2010,13,4,11.2,3.7,1.7,0.17,78,5,35
+Ademola Lookman,26,Atalanta,1,2540,11,8,9.7,6.5,1.6,0.15,103,3,40
+Charles De Ketelaere,22,Atalanta,1,2310,7,9,6.3,7.1,1.2,0.13,95,4,30
+Teun Koopmeiners,26,Atalanta,1,2780,12,7,10.8,6.2,1.7,0.16,113,1,45
+Dušan Vlahović,24,Juventus,1,2670,18,4,16.2,3.5,2,0.19,107,2,70
+Federico Chiesa,26,Juventus,1,2010,8,5,7.3,4.4,1.4,0.14,83,6,40
+Kenan Yıldız,19,Juventus,1,890,3,2,2.6,1.7,0.8,0.11,31,13,25
+Arkadiusz Milik,30,Juventus,1,1240,6,3,5.1,2.6,1.1,0.13,47,10,12
+Paulo Dybala,30,Roma,2,2310,13,9,11.5,7.3,1.8,0.17,108,4,25
+Romelu Lukaku,31,Roma,2,2450,16,5,14.1,4.2,1.9,0.18,97,3,38
+Tammy Abraham,26,Roma,2,780,2,1,1.9,0.9,0.7,0.09,26,18,25
+Sardar Azmoun,29,Roma,2,1250,4,3,3.5,2.4,0.9,0.12,41,11,10
+Andrea Belotti,30,Roma,2,1430,5,2,4.3,1.8,1,0.13,49,9,8
+Andrea Pinamonti,25,Sassuolo,2,2540,12,4,10.8,3.5,1.5,0.16,78,3,18
+Lucas Beltrán,23,Fiorentina,2,1870,7,5,6.2,4.1,1.2,0.14,63,6,15
+Nicolás González,26,Fiorentina,2,2310,10,6,9.1,5.2,1.6,0.15,89,2,35
+M'Bala Nzola,27,Fiorentina,2,1560,5,3,4.7,2.6,1,0.13,51,8,12
+Christian Kouamé,26,Fiorentina,2,2010,6,4,5.3,3.5,1.1,0.12,67,5,14
+Ciro Immobile,34,Lazio,2,2670,15,4,13.2,3.7,1.7,0.17,92,2,10
+Taty Castellanos,25,Lazio,2,1780,8,3,7,2.8,1.3,0.14,61,7,20
+Valentín Castellanos,25,Girona,2,2310,14,5,12.1,4.3,1.8,0.17,87,3,25
+Daichi Kamada,27,Lazio,2,2010,6,7,5.5,5.8,1.2,0.13,74,4,18
+Rafael Leão,24,Milan,1,2780,12,8,10.9,6.7,1.9,0.16,113,1,90
+Olivier Giroud,37,Milan,1,2450,13,6,11.5,5.1,1.7,0.17,89,3,8
+Noah Okafor,23,Milan,1,1430,5,4,4.3,3.2,1,0.12,51,9,20
+Christian Pulisic,25,Milan,1,2670,8,7,7.1,5.9,1.4,0.13,98,2,25
+Joshua Zirkzee,22,Bologna,2,2870,11,9,9.8,7.2,1.6,0.15,107,1,30
+Jens Odgaard,24,Bologna,2,1560,4,3,3.5,2.6,0.9,0.11,48,8,10
+Riccardo Orsolini,27,Bologna,2,2310,9,6,7.8,5.1,1.5,0.14,83,3,18
+Alexis Saelemaekers,25,Bologna,2,1780,5,4,4.2,3.5,1.1,0.12,63,6,15
+Patrick Cutrone,26,Hellas Verona,3,1250,3,2,2.6,1.7,0.8,0.1,41,11,6
+Andrea Favilli,26,Hellas Verona,3,980,2,1,1.9,0.9,0.7,0.09,32,14,4
+Alessandro Gabrielloni,28,Hellas Verona,3,890,1,1,0.9,0.8,0.5,0.07,28,16,3
+Simone Verdi,31,Torino,3,1670,4,3,3.5,2.4,1,0.11,53,8,5
+Thijs Dallinga,23,Toulouse,3,2540,12,5,10.5,4.2,1.7,0.16,85,2,15
+Frank Magri,24,Toulouse,3,1430,5,2,4.2,1.8,1.1,0.13,49,9,8
+Zakaria Aboukhlal,23,Toulouse,3,2010,7,4,6.1,3.5,1.3,0.14,67,5,12
+Shavy Babicka,21,Toulouse,3,980,2,1,1.8,0.9,0.6,0.08,34,13,5
+Lassine Sinayoko,23,Auxerre,3,2310,8,5,7,4.1,1.4,0.15,76,3,10
+Florian Ayé,26,Auxerre,3,1780,5,3,4.3,2.5,1.1,0.12,61,6,7
+Gaëtan Perrin,21,Auxerre,3,1250,3,2,2.6,1.7,0.8,0.1,42,11,5
+Mbaye Niang,28,Auxerre,3,1560,4,3,3.5,2.4,1,0.12,53,8,6
+Arnaud Kalimuendo,21,Rennes,2,2310,9,5,7.8,4.2,1.5,0.14,82,3,20
+Benjamin Bourigeaud,29,Rennes,2,2780,7,10,6.2,8.1,1.3,0.13,104,1,15
+Martin Terrier,26,Rennes,2,2010,11,4,9.5,3.7,1.6,0.16,78,5,25
+Ibrahim Salah,22,Rennes,2,1430,4,3,3.5,2.4,1,0.12,51,9,10
+Mostafa Mohamed,25,Nantes,2,2540,14,3,12.1,2.8,1.8,0.17,89,2,12
+Matthis Abline,20,Nantes,2,1780,5,4,4.3,3.2,1.1,0.12,63,6,8
+Moses Simon,28,Nantes,2,2310,7,6,6.1,5,1.4,0.14,82,3,10
+Evann Guessand,22,Nice,2,2010,6,4,5.2,3.5,1.2,0.13,67,5,12
+Himad Abdelli,23,Angers,2,1560,4,3,3.5,2.4,1,0.12,51,8,7
+Loïs Diony,30,Angers,2,1250,3,2,2.6,1.7,0.8,0.1,41,11,3
+Esteban Lepaul,21,Angers,2,980,1,1,0.9,0.8,0.5,0.07,32,14,2
+Justin-Noël Kalumba,20,Angers,2,890,1,1,0.8,0.7,0.5,0.07,28,16,2
+André Ayew,34,Le Havre,2,1670,4,3,3.5,2.4,1,0.11,53,8,2
+Emmanuel Sabbi,25,Le Havre,2,1430,5,2,4.2,1.8,1.1,0.13,49,9,5
+Oualid El Hajjam,32,Le Havre,2,1250,2,1,1.8,0.9,0.6,0.08,41,11,1
+Josué Casimir,22,Le Havre,2,980,1,1,0.9,0.8,0.5,0.07,32,14,3
+Oumar Diakité,20,Reims,2,1560,4,3,3.5,2.4,1,0.12,51,8,8
+Teddy Teuma,29,Reims,2,2310,7,6,6.1,5,1.4,0.14,82,3,10
+Mohamed Daramy,21,Reims,2,2010,5,4,4.3,3.2,1.1,0.12,67,5,12
+Junya Ito,30,Reims,2,2540,8,7,7,5.9,1.5,0.14,89,2,12
+Amine Salama,24,Reims,2,1780,4,3,3.5,2.4,1,0.12,61,6,7
+Ibrahim Sissoko,22,Reims,2,1250,3,2,2.6,1.7,0.8,0.1,41,11,5
+Irvin Cardona,26,Brest,2,1560,4,3,3.5,2.4,1,0.12,53,8,6
+Dylan Chambost,26,Saint-Étienne,3,2310,7,6,6.1,5,1.4,0.14,82,3,8
+Mahdi Camara,24,Saint-Étienne,3,2010,5,4,4.3,3.2,1.1,0.12,67,5,10
+Georges Mikautadze,23,Metz,3,2540,12,5,10.5,4.2,1.7,0.16,85,2,15
+Akor Adams,23,Montpellier,3,1780,8,3,7,2.8,1.3,0.14,61,6,12
+Wahbi Khazri,32,Montpellier,3,1560,5,4,4.3,3.2,1.1,0.12,53,8,4
+Arnaud Nordin,25,Saint-Étienne,3,2010,5,4,4.3,3.2,1.1,0.12,67,5,8
+Issiaga Sylla,29,Montpellier,3,1250,2,1,1.8,0.9,0.6,0.08,41,11,3
+Mikel Oyarzabal,26,Real Sociedad,2,2310,10,6,8.9,5.1,1.6,0.15,87,3,35
+Sheraldo Becker,28,Union Berlin,3,2310,7,8,6.2,6.7,1.4,0.14,89,3,12
+Takefusa Kubo,22,Real Sociedad,2,2540,9,7,7.9,6.2,1.6,0.15,102,2,50
+André Silva,28,Real Sociedad,2,1780,6,4,5.3,3.5,1.2,0.13,67,6,15
+Hugo Duro,24,Valencia,3,2670,12,5,10.8,4.3,1.7,0.16,98,1,25
+Diego López,21,Valencia,3,1250,3,2,2.6,1.7,0.8,0.1,41,11,8
+Sergi Canós,26,Valencia,3,1560,4,3,3.5,2.4,1,0.12,53,8,10
+Fran Pérez,20,Valencia,3,980,2,1,1.8,0.9,0.6,0.08,32,14,6
+Borja Mayoral,26,Getafe,3,2870,16,4,14.1,3.7,1.9,0.18,112,0,20
+Jaime Mata,35,Getafe,3,1430,5,2,4.3,1.8,1.1,0.13,49,9,3
+Juanmi Latasa,22,Getafe,3,2010,7,3,6.1,2.8,1.3,0.14,71,5,12
+Choco Lozano,29,Cádiz,3,1780,5,2,4.3,1.8,1.1,0.13,61,6,8
+Martin Braithwaite,32,Espanyol,3,2310,11,5,9.8,4.2,1.6,0.16,87,3,6
+Javi Puado,25,Espanyol,3,2540,8,7,7.1,5.9,1.5,0.14,102,2,15
+Pere Milla,31,Espanyol,3,2010,6,4,5.3,3.5,1.2,0.13,74,5,8
+Nico Melamed,22,Espanyol,3,1560,4,3,3.5,2.4,1,0.12,53,8,10
+Samu Omorodion,19,Alavés,3,1250,3,1,2.6,0.9,0.8,0.1,41,11,15
+Kike García,33,Alavés,3,1670,5,2,4.3,1.8,1.1,0.13,56,7,3
+Rafa Marín,21,Alavés,3,890,1,1,0.9,0.8,0.5,0.07,28,16,5
+Luis Rioja,29,Alavés,3,2310,6,5,5.3,4.2,1.2,0.13,82,3,8
+Artem Dovbyk,26,Girona,2,2780,18,7,16.2,6.1,2.1,0.2,124,1,30
+Cristhian Stuani,37,Girona,2,1250,5,1,4.3,0.9,1.1,0.13,41,11,2
+Viktor Tsygankov,26,Girona,2,2010,7,6,6.1,5,1.4,0.14,74,5,25
+Sávio,19,Girona,2,2540,8,9,7.1,7.5,1.5,0.14,102,2,30
+Youssef En-Nesyri,26,Sevilla,2,2670,15,3,13.2,2.8,1.8,0.17,98,2,25
+Isaac Romero,22,Sevilla,2,1430,6,2,5.3,1.8,1.2,0.14,51,9,12
+Dodi Lukebakio,26,Sevilla,2,1780,7,4,6.1,3.5,1.3,0.14,67,6,18
+Lucas Ocampos,29,Sevilla,2,2310,8,5,7.1,4.2,1.5,0.15,82,3,15
+Diego Garcia,21,Sevilla,2,980,2,1,1.8,0.9,0.6,0.08,32,14,8
+Juan Cruz,24,Sevilla,2,1250,3,2,2.6,1.7,0.8,0.1,41,11,6
+Dani Raba,27,Villarreal,2,1560,4,3,3.5,2.4,1,0.12,53,8,10
+Miguel de la Fuente,22,Villarreal,2,890,1,1,0.9,0.8,0.5,0.07,28,16,5
+Sandro Ramírez,28,Villarreal,2,1670,3,2,2.6,1.7,0.8,0.1,56,7,4
+Marc Cardona,28,Mallorca,3,2010,6,3,5.3,2.5,1.2,0.13,71,5,8
+Munir El Haddadi,28,Getafe,2,1560,4,3,3.5,2.4,1,0.12,53,8,6
+Shon Weissman,27,Valladolid,3,2310,8,4,7.1,3.5,1.5,0.15,82,3,10
+Marcos André,26,Valladolid,3,1780,5,3,4.3,2.5,1.1,0.13,61,6,8
+Mamady Camara,22,Valladolid,3,1250,3,1,2.6,0.9,0.8,0.1,41,11,5
+Sergio León,34,Valladolid,3,1560,4,2,3.5,1.8,1,0.12,53,8,3
+Kylian Mbappé,25,PSG,1,2600,27,7,24.1,6.3,2.3,0.25,112,2,180
+Ousmane Dembélé,27,PSG,1,2310,8,11,7.1,9.2,1.5,0.14,108,3,60
+Randal Kolo Muani,25,PSG,1,2010,9,6,8.2,5.1,1.4,0.15,78,5,70
+Bradley Barcola,21,PSG,1,1780,5,4,4.3,3.5,1.1,0.13,67,6,40
+Pierre-Emerick Aubameyang,34,Marseille,2,2310,12,5,10.8,4.2,1.7,0.17,89,3,8
+Farid Boulaya,30,Metz,3,2010,6,5,5.3,4.2,1.2,0.13,74,5,6
+Iliman Ndiaye,24,Marseille,2,2540,9,7,7.9,5.9,1.6,0.15,102,2,25
+Joaquín Correa,29,Marseille,2,1560,4,3,3.5,2.4,1,0.12,53,8,12
+Folarin Balogun,22,Monaco,2,2670,15,4,13.2,3.7,1.8,0.17,98,2,35
+Mika Biereth,20,Stade Reims,2,1250,3,2,2.6,1.7,0.8,0.1,41,11,8
+Breel Embolo,27,Monaco,2,1780,7,3,6.1,2.8,1.3,0.14,61,6,20
+Takumi Minamino,29,Monaco,2,2310,8,6,7.1,5,1.5,0.15,82,3,15
+Terem Moffi,24,Nice,2,2540,14,5,12.1,4.3,1.8,0.17,102,2,25
+Gaëtan Laborde,29,Nice,2,2010,9,4,7.9,3.5,1.5,0.15,74,5,18
+Jeremie Boga,26,Nice,2,1560,5,3,4.3,2.5,1.1,0.13,53,8,12
+Evann Guessand,22,Nice,2,1250,3,2,2.6,1.7,0.8,0.1,41,11,10
+Jonathan David,24,Lille,2,2780,19,6,17.2,5.1,2,0.19,124,1,50
+Edon Zhegrova,25,Lille,2,2310,8,9,7.1,7.5,1.5,0.14,102,3,30
+Hákon Arnar Haraldsson,20,Lille,2,1560,4,3,3.5,2.4,1,0.12,53,8,15
+Rémy Cabella,34,Lille,2,2010,6,5,5.3,4.2,1.2,0.13,74,5,8
+Alexandre Lacazette,33,Lyon,2,2670,17,5,15.2,4.3,1.9,0.18,112,2,12
+Georges Mikautadze,23,Metz,2,2540,12,5,10.5,4.2,1.7,0.16,85,2,15
+Malick Fofana,18,Lyon,2,890,1,1,0.9,0.8,0.5,0.07,28,16,10
+Ernest Nuamah,20,Lyon,2,1250,3,2,2.6,1.7,0.8,0.1,41,11,20
+Emanuel Emegha,21,Strasbourg,2,1560,4,3,3.5,2.4,1,0.12,53,8,12
+Dilane Bakwa,21,Strasbourg,2,2010,5,4,4.3,3.5,1.1,0.13,71,5,15
+Sékou Mara,21,Bordeaux,3,1780,6,2,5.3,1.8,1.3,0.14,61,6,10
+Moïse Sahi Dion,20,Bordeaux,3,1250,3,1,2.6,0.9,0.8,0.1,41,11,8
+Elye Wahi,21,Montpellier,3,2540,14,4,12.1,3.7,1.8,0.17,102,2,30
+Florian Sotoca,33,Lens,2,2670,10,7,9.1,6.1,1.6,0.15,112,1,8
+Wesley Saïd,28,Lens,2,1780,6,3,5.3,2.5,1.2,0.13,61,6,6
+Andy Diouf,20,Lens,2,1250,3,2,2.6,1.7,0.8,0.1,41,11,12
+Jérémy Le Douaron,25,Brest,3,2310,7,5,6.1,4.2,1.4,0.14,82,3,10
+Steve Mounié,28,Augsburg,3,1870,7,3,6,2.5,1.1,0.13,56,7,6
+Romain Del Castillo,27,Brest,3,2540,8,7,7.1,5.9,1.5,0.14,102,2,15
+Martin Satriano,22,Brest,3,1560,4,3,3.5,2.4,1,0.12,53,8,12
+Rodrigo Muniz,22,Fulham,2,1780,5,2,4.3,1.8,1.1,0.13,61,6,15
+Raúl Jiménez,32,Fulham,2,2010,6,3,5.3,2.5,1.2,0.13,74,5,8
+Carlos Vinícius,28,Fulham,2,1250,3,1,2.6,0.9,0.8,0.1,41,11,6
+Harry Wilson,26,Fulham,2,1560,4,3,3.5,2.4,1,0.12,53,8,15
+Jean-Philippe Mateta,26,Crystal Palace,2,2310,9,4,7.9,3.5,1.5,0.15,82,3,12
+Eddie Nketiah,24,Arsenal,1,1780,5,2,4.3,1.8,1.1,0.13,61,6,20
+Matheus França,19,Crystal Palace,2,620,2,1,1.8,0.9,0.7,0.1,21,8,15
+Odsonne Édouard,26,Crystal Palace,2,1540,7,3,6.2,2.6,1.2,0.14,52,6,18
+Dominic Calvert-Lewin,27,Everton,3,1980,8,2,7.1,1.8,1.4,0.15,67,5,25
+Beto,26,Everton,3,1420,5,1,4.6,0.9,1.1,0.13,48,9,20
+Arnaut Danjuma,27,Everton,3,1250,4,2,3.5,1.7,0.9,0.12,42,10,15
+Lewis Dobbin,21,Everton,3,680,1,1,0.9,0.8,0.5,0.08,23,14,8
+Jarrod Bowen,27,West Ham,3,2840,16,8,14.2,6.9,1.9,0.18,112,1,45
+Lucas Paquetá,26,West Ham,3,2310,7,8,6.2,6.7,1.4,0.14,89,3,55
+Michail Antonio,34,West Ham,3,1670,6,3,5.3,2.5,1.2,0.14,56,7,5
+Danny Ings,31,West Ham,3,1250,4,2,3.5,1.7,0.9,0.12,42,10,8
+Rasmus Højlund,21,Man Utd,1,1980,10,2,9.1,1.8,1.6,0.16,67,5,65
+Marcus Rashford,26,Man Utd,1,2540,8,6,7.1,5,1.5,0.14,102,2,70
+Anthony Martial,28,Man Utd,1,890,2,1,1.8,0.9,0.6,0.08,30,15,12
+Mason Greenwood,22,Getafe,3,2310,10,6,8.9,5.1,1.6,0.15,87,3,25
+Hwang Hee-chan,27,Wolves,3,2310,12,4,10.8,3.7,1.8,0.17,89,3,30
+Matheus Cunha,24,Wolves,3,2670,11,8,9.8,6.7,1.7,0.16,112,1,40
+Saša Kalajdžić,26,Wolves,3,560,1,0,0.9,0.2,0.4,0.07,19,18,12
+Jean-Ricner Bellegarde,25,Wolves,3,1420,3,3,2.6,2.5,0.9,0.12,48,9,18
+Son Heung-min,31,Tottenham,2,2780,17,9,15.2,7.5,2,0.19,124,1,50
+Richarlison,26,Tottenham,2,2010,11,4,9.8,3.7,1.7,0.17,78,5,45
+Brennan Johnson,22,Tottenham,2,1780,6,5,5.3,4.2,1.2,0.14,67,6,40
+Dejan Kulusevski,23,Tottenham,2,2540,7,8,6.2,6.7,1.4,0.14,102,2,45
+Jamie Vardy,37,Leicester,2,1540,8,2,7.1,1.8,1.4,0.15,52,6,4
+Patson Daka,25,Leicester,2,1250,5,1,4.6,0.9,1.1,0.13,42,10,15
+Kelechi Iheanacho,27,Leicester,2,1420,6,3,5.3,2.5,1.2,0.14,48,9,18
+Tom Cannon,21,Leicester,2,680,2,1,1.8,0.9,0.6,0.08,23,14,8
+Conor Chaplin,26,Ipswich,3,2840,13,7,11.5,5.9,1.8,0.17,112,1,15
+George Hirst,24,Ipswich,3,2310,9,5,7.9,4.2,1.6,0.15,89,3,12
+Ali Al-Hamadi,21,Ipswich,3,1250,5,2,4.6,1.8,1.1,0.13,42,10,8
+Nathan Broadhead,26,Ipswich,3,1980,8,4,7.1,3.5,1.4,0.15,67,5,10
+Che Adams,27,Southampton,3,2310,10,4,8.9,3.7,1.6,0.15,89,3,18
+Ross Stewart,27,Southampton,3,560,1,0,0.9,0.2,0.4,0.07,19,18,8
+Adam Armstrong,26,Southampton,3,2540,12,6,10.8,5.1,1.8,0.17,102,2,20
+Kamaldeen Sulemana,21,Southampton,3,1420,3,3,2.6,2.5,0.9,0.12,48,9,25
+Harry Kane,30,Bayern Munich,1,2670,32,8,28.3,7.1,2.4,0.23,138,0,100
+Jamal Musiala,21,Bayern Munich,1,2310,12,9,10.8,7.5,1.8,0.17,102,3,110
+Serge Gnabry,28,Bayern Munich,1,1780,8,5,7.1,4.2,1.5,0.15,67,6,45
+Mathys Tel,18,Bayern Munich,1,1250,6,2,5.3,1.8,1.2,0.14,42,10,40
+Victor Boniface,23,Bayer Leverkusen,1,2310,18,8,16.2,6.7,2.1,0.2,102,3,50
+Florian Wirtz,20,Bayer Leverkusen,1,2540,11,12,9.8,10.1,1.7,0.16,124,2,90
+Patrik Schick,28,Bayer Leverkusen,1,1420,7,2,6.2,1.8,1.4,0.15,48,9,25
+Adam Hložek,21,Bayer Leverkusen,1,1780,5,5,4.6,4.2,1.2,0.14,67,6,30
+Omar Marmoush,24,Wolfsburg,3,2310,12,5,10.8,4.2,1.8,0.17,89,3,25
+Hugo Ekitike,21,Eintracht Frankfurt,2,1250,4,2,3.5,1.7,0.9,0.12,42,10,20
+Ansgar Knauff,22,Eintracht Frankfurt,2,1980,6,5,5.3,4.2,1.2,0.14,67,5,18
+Donny van de Beek,26,Eintracht Frankfurt,2,890,1,1,0.9,0.8,0.5,0.08,30,15,12
+Niclas Füllkrug,31,Borussia Dortmund,1,2310,14,6,12.5,5.1,1.9,0.18,89,3,18
+Donyell Malen,25,Borussia Dortmund,1,2010,11,4,9.8,3.7,1.7,0.17,78,5,35
+Sébastien Haller,29,Borussia Dortmund,1,1540,8,3,7.1,2.6,1.4,0.15,52,6,20
+Youssoufa Moukoko,19,Borussia Dortmund,1,1250,5,2,4.6,1.8,1.1,0.13,42,10,30
+Michael Gregoritsch,29,Freiburg,2,1780,7,3,6.2,2.5,1.3,0.14,67,6,12
+Lucas Höler,29,Freiburg,2,2310,8,5,7.1,4.2,1.5,0.15,89,3,15
+Roland Sallai,26,Freiburg,2,1980,6,5,5.3,4.2,1.2,0.14,67,5,18
+Ritsu Doan,25,Freiburg,2,2540,9,7,8,5.9,1.6,0.15,102,2,25
+Jonathan Burkardt,23,Mainz,2,1420,4,2,3.5,1.7,0.9,0.12,48,9,15
+Brajan Gruda,19,Mainz,2,890,2,1,1.8,0.9,0.6,0.08,30,15,10
+Karim Onisiwo,31,Mainz,2,2310,7,4,6.2,3.5,1.4,0.14,89,3,8
+Ludovic Ajorque,29,Mainz,2,1540,6,3,5.3,2.5,1.2,0.14,52,6,12
+Loïs Openda,24,RB Leipzig,2,2670,24,7,21.5,6.1,2.2,0.21,124,1,70
+Benjamin Sesko,20,RB Leipzig,2,1780,9,3,8,2.6,1.5,0.15,67,6,40
+Yussuf Poulsen,29,RB Leipzig,2,1250,4,2,3.5,1.7,0.9,0.12,42,10,8
+Xavi Simons,20,RB Leipzig,2,2310,8,12,7.1,9.8,1.5,0.14,102,3,70
+Marvin Ducksch,30,Werder Bremen,3,2540,12,7,10.8,6.1,1.8,0.17,102,2,15
+Justin Njinmah,23,Werder Bremen,3,1420,5,3,4.3,2.5,1.1,0.13,48,9,12
+Dawid Kownacki,27,Werder Bremen,3,890,2,1,1.8,0.9,0.6,0.08,30,15,6
+Nick Woltemade,22,Werder Bremen,3,680,1,1,0.9,0.8,0.5,0.07,23,16,5
+Serhou Guirassy,28,Stuttgart,2,2310,22,3,19.3,2.8,2.1,0.2,102,3,40
+Deniz Undav,27,Stuttgart,2,2010,18,5,16.2,4.3,2,0.19,89,4,30
+Jamie Leweling,22,Stuttgart,2,1540,4,5,3.5,4.2,1,0.12,52,8,15
+Chris Führich,26,Stuttgart,2,2540,8,10,7.1,8.5,1.5,0.14,112,2,25
+Duván Zapata,33,Torino,3,2310,12,4,10.8,3.7,1.8,0.17,89,3,12
+Antonio Sanabria,27,Torino,3,1780,8,3,7.1,2.6,1.4,0.15,67,6,18
+Pietro Pellegri,22,Torino,3,890,2,1,1.8,0.9,0.6,0.08,30,15,8
+David Okereke,26,Torino,3,1250,4,2,3.5,1.7,0.9,0.12,42,10,10
+Lorenzo Lucca,23,Udinese,2,2310,9,3,8,2.6,1.5,0.15,89,3,20
+Isaac Success,28,Udinese,2,1540,3,4,2.6,3.5,0.9,0.11,52,8,8
+Keinan Davis,26,Udinese,2,680,1,1,0.9,0.8,0.5,0.07,23,16,5
+Florian Thauvin,30,Udinese,2,1980,5,6,4.3,5.1,1.2,0.13,67,5,10
+Mateo Retegui,24,Genoa,2,2310,11,2,9.8,1.8,1.7,0.16,89,3,25
+Albert Gudmundsson,26,Genoa,2,2540,14,6,12.5,5.1,1.9,0.18,112,2,30
+Caleb Ekuban,29,Genoa,2,890,1,1,0.9,0.8,0.5,0.07,30,15,4
+Vitinha,24,Genoa,2,1420,4,2,3.5,1.7,0.9,0.12,48,9,15
+Tijjani Noslin,24,Verona,2,1540,5,3,4.3,2.5,1.1,0.13,52,8,12
+Federico Bonazzoli,26,Verona,2,1250,3,2,2.6,1.7,0.8,0.1,42,10,8
+Thomas Henry,28,Verona,2,680,2,1,1.8,0.9,0.6,0.08,23,16,6
+Karol Swiderski,26,Verona,2,1980,7,3,6.2,2.5,1.3,0.14,67,5,15
+Gianluca Lapadula,33,Cagliari,2,2310,8,4,7.1,3.5,1.4,0.14,89,3,8
+Andrea Petagna,28,Cagliari,2,1250,3,2,2.6,1.7,0.8,0.1,42,10,6
+Zito Luvumbo,21,Cagliari,2,1540,4,3,3.5,2.5,1,0.12,52,8,10
+Leonardo Pavoletti,35,Cagliari,2,890,2,1,1.8,0.9,0.6,0.08,30,15,2
+Dennis Man,26,Parma,3,2540,11,8,9.8,6.7,1.7,0.16,112,2,20
+Antonio Colak,30,Parma,3,1780,9,2,8,1.8,1.5,0.15,67,6,12
+Gabriel Charpentier,25,Parma,3,1250,3,2,2.6,1.7,0.8,0.1,42,10,8
+Ange-Yoan Bonny,20,Parma,3,680,1,1,0.9,0.8,0.5,0.07,23,16,5
+Nikola Krstović,23,Lecce,3,2310,10,3,8.9,2.6,1.6,0.15,89,3,18
+Roberto Piccoli,23,Lecce,3,1540,5,2,4.3,1.8,1.1,0.13,52,8,12
+Pontus Almqvist,24,Lecce,3,1250,3,2,2.6,1.7,0.8,0.1,42,10,8
+Remi Oudin,27,Lecce,3,1980,4,5,3.5,4.2,1,0.12,67,5,10
+M'Baye Niang,29,Empoli,3,2310,7,4,6.2,3.5,1.3,0.14,89,3,8
+Niccolò Cambiaghi,23,Empoli,3,1540,5,3,4.3,2.5,1.1,0.13,52,8,12
+Francesco Caputo,36,Empoli,3,1250,3,2,2.6,1.7,0.8,0.1,42,10,3
+Mattia Destro,33,Empoli,3,890,2,1,1.8,0.9,0.6,0.08,30,15,2
+Joel Pohjanpalo,29,Venezia,3,2540,14,3,12.5,2.6,1.9,0.18,112,2,15
+Christian Gytkjær,34,Venezia,3,1250,4,2,3.5,1.7,0.9,0.12,42,10,3
+Tanner Tessmann,22,Venezia,3,2310,5,6,4.3,5.1,1.2,0.13,89,3,12
+Gianluca Busio,21,Venezia,3,1540,3,4,2.6,3.5,0.9,0.11,52,8,10
+Andrea Carboni,23,Monza,3,1980,4,5,3.5,4.2,1,0.12,67,5,15
+Andrea Colpani,24,Monza,3,2540,8,7,7.1,5.9,1.5,0.14,112,2,20
+Daniel Maldini,22,Monza,3,1420,3,2,2.6,1.7,0.8,0.1,48,9,12
+Milan Đurić,33,Monza,3,890,2,1,1.8,0.9,0.6,0.08,30,15,3
+Mohamed Salah,31,Liverpool,1,2670,19,11,17.2,9.1,2,0.19,138,1,65
+Darwin Núñez,24,Liverpool,1,2310,12,8,10.8,6.7,1.8,0.17,102,3,70
+Luis Díaz,27,Liverpool,1,2010,8,6,7.1,5.1,1.5,0.15,89,4,50
+Cody Gakpo,24,Liverpool,1,1780,7,5,6.2,4.2,1.4,0.15,78,5,45
+Bukayo Saka,22,Arsenal,1,2840,16,9,14.2,7.5,2,0.18,124,1,120
+Gabriel Martinelli,22,Arsenal,1,2310,10,6,8.9,5.1,1.6,0.15,102,3,80
+Gabriel Jesus,26,Arsenal,1,1980,9,5,8,4.3,1.5,0.15,89,4,65
+Kai Havertz,24,Arsenal,1,2540,8,7,7.1,5.9,1.5,0.14,112,2,60
+Erling Haaland,23,Man City,1,2310,27,5,24.3,4.3,2.3,0.22,124,3,180
+Julian Álvarez,24,Man City,1,2670,12,9,10.8,7.5,1.8,0.17,124,1,80
+Phil Foden,23,Man City,1,2840,11,8,9.8,6.7,1.7,0.16,138,1,110
+Jérémy Doku,21,Man City,1,2010,6,9,5.3,7.5,1.4,0.14,89,4,65
+Cole Palmer,21,Chelsea,1,2540,12,8,10.8,6.7,1.8,0.17,112,2,50
+Nicolas Jackson,22,Chelsea,1,2310,11,4,9.8,3.7,1.7,0.16,102,3,45
+Christopher Nkunku,26,Chelsea,1,1250,4,3,3.5,2.5,1,0.12,52,10,60
+João Félix,24,Barcelona,1,1780,5,4,4.3,3.5,1.2,0.13,78,5,50
+Alexander Isak,24,Newcastle,2,2310,14,3,12.5,2.6,1.9,0.18,102,3,70
+Callum Wilson,32,Newcastle,2,1540,9,2,8,1.8,1.5,0.15,67,7,18
+Anthony Gordon,23,Newcastle,2,2670,8,7,7.1,5.9,1.5,0.14,124,1,45
+Harvey Barnes,26,Newcastle,2,1250,3,2,2.6,1.7,0.8,0.1,52,10,30
+Ollie Watkins,28,Aston Villa,2,2840,19,13,17.2,10.8,2.1,0.2,138,1,65
+Leon Bailey,26,Aston Villa,2,2310,10,9,8.9,7.5,1.7,0.16,102,3,45
+Moussa Diaby,24,Aston Villa,2,2540,8,7,7.1,5.9,1.5,0.14,112,2,60
+Jhon Durán,20,Aston Villa,2,890,3,1,2.6,0.9,0.8,0.1,37,15,25
+Chris Wood,32,Nottm Forest,2,1780,7,2,6.2,1.8,1.4,0.15,78,5,10
+Taiwo Awoniyi,26,Nottm Forest,2,2010,9,3,8,2.6,1.6,0.16,89,4,35
+Anthony Elanga,22,Nottm Forest,2,2540,6,7,5.3,5.9,1.3,0.13,112,2,30
+Callum Hudson-Odoi,23,Nottm Forest,2,1540,4,4,3.5,3.5,1,0.12,67,7,20
+Evan Ferguson,19,Brighton,2,1980,8,3,7.1,2.6,1.5,0.15,89,4,50
+João Pedro,22,Brighton,2,2310,12,5,10.8,4.3,1.8,0.17,102,3,45
+Simon Adingra,22,Brighton,2,1780,6,5,5.3,4.2,1.3,0.14,78,5,35
+Danny Welbeck,33,Brighton,2,1250,4,2,3.5,1.7,0.9,0.12,52,10,5
+Dominic Solanke,26,Bournemouth,3,2670,17,4,15.2,3.7,2,0.19,124,1,40
+Antoine Semenyo,24,Bournemouth,3,2010,7,5,6.2,4.2,1.4,0.15,89,4,25
+Enes Ünal,26,Bournemouth,3,1540,5,2,4.3,1.8,1.1,0.13,67,7,20
+Luis Sinisterra,24,Bournemouth,3,1250,4,3,3.5,2.5,1,0.12,52,10,30
+Ivan Toney,28,Brentford,3,2010,12,4,10.8,3.7,1.8,0.17,89,4,50
+Bryan Mbeumo,24,Brentford,3,2540,11,7,9.8,5.9,1.7,0.16,112,2,45
+Yoane Wissa,27,Brentford,3,2310,9,5,8,4.3,1.6,0.15,102,3,30
+Kevin Schade,22,Brentford,3,1540,4,4,3.5,3.5,1,0.12,67,7,25
